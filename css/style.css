@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+.box{
+	min-height: 600px;
+}
+.box1{
+	margin-top: 100px;
+	min-height: 100px;
+	width: 300px;
+	border: 1px solid red;
+	text-align:center;
+
+}
